@@ -5,7 +5,7 @@ datos.
 
 ## Modo de uso
 
-git clone
+git clone https://github.com/pluisfer/contacts-app.git
 
 ## Librerias seguras
 
